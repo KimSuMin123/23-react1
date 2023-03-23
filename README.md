@@ -10,9 +10,14 @@
 1. npx create-react-app [project name] 입력
 2. 기존 리드미 파일 복사하기 
 3. 생성한 새 프로젝트에 복사한 리드미 파일 붙히고 저장하기
-4.  터미널에 git init 
+4.  터미널에 
+  git init 
+  
   git commit -m "first commit"
-  git branch -M main 라는 명령어 입력하기
+  
+  git branch -M main 
+  
+  라는 명령어 입력하기
 5. git remote add origin 깃주소 입력하기
 6. git push -u origin main 이라는 명령어 입력하기 
 7. 기존 레파지토리 (23-React1) 삭제하기
