@@ -8,9 +8,9 @@
 
 
 방법
-1. node -v로 노드 설치 여부 확인
-2. 원하는 디렉토리 위치로 이동
-3. npx create-react-app [project name] 입력
+1. vs코드에서 원하는 디렉토리 위치로 이동
+2. node -v로 노드 설치 여부 확인
+3. npx create-react-app [project name] 입력 => project name : 23-react1으로 작업함
 4. 기존 리드미 파일 복사하기 
 5. 생성한 새 프로젝트에 복사한 리드미 파일 붙히고 저장하기
 6. 터미널에 git init 라는 명령어 입력하기
@@ -18,7 +18,7 @@
 8. 터미널에 git branch -M main 라는 명령어 입력하기
 9. 터미널에 git remote add origin 깃주소 입력하기
 10. 터미널에 git push -u origin main 이라는 명령어 입력하기 
-11. 크롬에서 깃허브 주소로 접속 후 23-react1에 잘 업데이트 되었는지 확인
+11. 크롬에서 깃허브 주소로 접속 후 새로 만든 프로젝트 (23-react1)에 잘 업데이트 되었는지 확인
 12. 기존 레파지토리 (23-React1) 삭제하기
 
 ## 03.16 3주차 강의 내용
